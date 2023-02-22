@@ -1,16 +1,25 @@
 # expenses
 
-A new Flutter project.
+"expenses" is a simple app that provides a manual dashboard for tracking weekly expenses. With "expenses", you can easily record and categorize your expenses, providing a clear view of your spending habits.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Manual expense tracking
+* Weekly expense dashboard
+* Customizable expense categories
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To use "expenses", you'll need to have the Flutter development environment installed on your machine. Once you've cloned the repository, you can use the `flutter run` command to start the app on your local machine.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+"expenses" is a helpful tool for anyone who wants to get a better understanding of their spending habits. The app provides a simple and intuitive interface for recording and categorizing expenses, and generates a clear dashboard of your weekly expenses. You can customize the expense categories to fit your needs, and use the app to help you make more informed decisions about your finances.
+
+## Contributing
+
+"expenses" is a personal project, so contributions are not currently being accepted. However, you're welcome to fork the repository and use it as a starting point for your own expense tracking app.
+
+## License
+
+"expenses" is available under the MIT License. Feel free to use the code in your own projects or modify it as needed.
